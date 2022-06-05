@@ -1,0 +1,12 @@
+Install Virtualenv: 
+    1. virtualenv venv --python=python3.9
+    2. source venv/bin/activate (for mac), ./venv/scripts/activate.bat (for windows)
+
+Error Codes:
+    1. 200 - OK
+    2. 201 - Created
+    3. 202 - Accepted
+    4. 404 - Not Found
+    5. 400 - Bad Request
+    6. 401 - Unauthorized Request
+    7. 405 - Method not allowed
